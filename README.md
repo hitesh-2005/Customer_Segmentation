@@ -1,4 +1,4 @@
-# PRODIGY_ML_02
+# Customer Segmentation using ML
 This repository contains a machine learning project focused on customer segmentation using the KMeans clustering algorithm. The project uses the popular Mall Customer Segmentation dataset, which includes basic demographic and behavioral data collected from customers via mall membership cards. The aim is to group customers into distinct clusters based on shared characteristics, enabling businesses to better understand customer types and design targeted marketing strategies.
 
 # 📌 Task
